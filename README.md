@@ -1,2 +1,3 @@
-# My-Docker-Webserver
-My-Docker-Webserver
+# DESCRIPTION
+
+Nginx, phpMyAdmin, WordPress
